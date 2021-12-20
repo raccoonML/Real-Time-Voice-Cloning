@@ -1,9 +1,11 @@
 # Real-Time Voice Cloning
 
-This is an actively-developed fork of @CorentinJ's famous Real Time Voice Cloning (RTVC) repository. If you are not a developer, please download a [release](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases) for the best experience.
+This is a fork of @CorentinJ's famous Real Time Voice Cloning (RTVC) repository. Please download a [release](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases) for the best experience.
 
 ## Development roadmap
 * [ ] Integrate hifi-gan vocoder - [in progress!](https://github.com/raccoonML/Real-Time-Voice-Cloning/tree/hifi-gan)
+
+### Other features identified but not committed
 * [ ] Add support for other languages
 * [ ] Preprocess cleanup and improvements
 * [ ] Encoder model updates

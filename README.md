@@ -2,6 +2,9 @@
 
 This is a fork of @CorentinJ's famous Real Time Voice Cloning (RTVC) repository. Please download a [release](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases) for the best experience.
 
+## Announcements
+12/21/2021: An experimental [Spanish release](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases/tag/Spanish-1) is available.
+
 ## Windows setup
 1. Install Python 3.7+ if you don't have it already. GUIDE: [Installing Python on Windows](https://www.patreon.com/posts/guide-install-in-59934677).
 2. Download [**RTVC_Windows.zip**](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases/download/RTVC-7/RTVC_Windows.zip) from the [RTVC-7 release](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases/tag/RTVC-7).

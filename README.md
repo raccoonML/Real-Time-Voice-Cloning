@@ -3,6 +3,7 @@
 This is a fork of @CorentinJ's famous Real Time Voice Cloning (RTVC) repository. Please download a [release](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases) for the best experience.
 
 ## Announcements
+* 1/19/2022: A [Swedish release](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases/tag/Swedish-1) is available. The pretrained models were contributed by @ViktorAlm.
 * 12/27/2021: Development of RTVC has transferred to the [Multi-Language RTVC](https://github.com/sveneschlbeck/Multi-Language-RTVC) project. There are no plans to further develop or maintain this repo, but feel free to open an issue to report problems, share ideas and suggestions.
 * 12/21/2021: An experimental [Spanish release](https://github.com/raccoonML/Real-Time-Voice-Cloning/releases/tag/Spanish-1) is available.
 
